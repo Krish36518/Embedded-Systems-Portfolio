@@ -5,23 +5,32 @@ This repository showcases my coursework projects, embedded systems builds, firmw
 COURSE BASED WORKS ->
 
 1. Mastering Microcontrollers -1
+   
    Learnings - Driver development, Bare metal programming, I2C,SPI,UART 
    STM32F411CEU6 Driver Development
    https://github.com/Krish36518/STM32F411CEU6-MCU-1/tree/main/stm32f4xx_drivers
 
+
    STM32F411CEU6 TEST PROGRAMS ON UART,I2C AND GPIO
    https://github.com/Krish36518/STM32F411CEU6-MCU-1/tree/main/stm32f4xx_drivers/Src
 
+
    STM32F411CEU6 Based RTC ON LED Project
    https://github.com/Krish36518/Project_RealTimeClock_onLED
+
+
 
 3. Mastering Real Time Operating System
    Learnings - FREERTOS,SEGGER, LOGIC ANALYZER 
    STM32F411CEU6 , FREERTOS, SEGGER BASED PROJECTS ON RTOS
    https://github.com/Krish36518/-Mastering-Real-Time-Operating-System
 
+
+
 4. Mastering Microcontrollers - 2
    Learnings - TIMERS, CAN, POWER modes, RTC
+
+
 
 
 PROJECT BASED WORKS ->
