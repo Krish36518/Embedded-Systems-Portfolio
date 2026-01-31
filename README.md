@@ -20,14 +20,16 @@ COURSE BASED WORKS ->
 
 
 
-3. Mastering Real Time Operating System
+2. Mastering Real Time Operating System
+
    Learnings - FREERTOS,SEGGER, LOGIC ANALYZER 
    STM32F411CEU6 , FREERTOS, SEGGER BASED PROJECTS ON RTOS
    https://github.com/Krish36518/-Mastering-Real-Time-Operating-System
 
 
 
-4. Mastering Microcontrollers - 2
+3. Mastering Microcontrollers - 2
+   
    Learnings - TIMERS, CAN, POWER modes, RTC
 
 
