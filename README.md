@@ -38,22 +38,27 @@ COURSE BASED WORKS ->
 PROJECT BASED WORKS ->
 
 1.Gesture controlled hand paiano
+
 Key takeaway - Embedded System project making use of unique algorithm to find the movement of fingers and then playing a specific sound accordingly.
 https://github.com/Krish36518/Gesture_Controlled_Hand_Piano
 
 2.Automatic Waste Segregator 
+
 Key takeaway - Emedded System project integrated with IOT uses a camera sensor and ML model to segreagte waste.
 https://github.com/Krish36518/Automatic-Waste-Segregator
 
 3.RTC ON LED
+
 Key takeaway - Real Time operating system project showing a real time clcok on 16x2 display
 https://github.com/Krish36518/Project_RealTimeClock_onLED
 
 4.Digital Clock 
+
 Key takeaway - A pure hardware project not using any microcontroller and generating a digital clock by making use of TTL ICs only
 https://github.com/Krish36518/Digital-Clock-Using-TTL-ICs
 
 5.Smart Cable Fault Detector
+
 Key Takeaway - A smart cablefault detector which makes use of TDR technology and an algorith to find accurate distance in faulty wires
 
 
