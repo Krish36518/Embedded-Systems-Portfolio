@@ -4,7 +4,7 @@ This repository showcases my coursework projects, embedded systems builds, firmw
 
 COURSE BASED WORKS ->
 
-1. Mastering Microcontrollers -1
+#1. Mastering Microcontrollers -1
    
    Learnings - Driver development, Bare metal programming, I2C,SPI,UART 
    STM32F411CEU6 Driver Development
@@ -20,7 +20,7 @@ COURSE BASED WORKS ->
 
 
 
-2. Mastering Real Time Operating System
+#2. Mastering Real Time Operating System
 
    Learnings - FREERTOS,SEGGER, LOGIC ANALYZER 
    STM32F411CEU6 , FREERTOS, SEGGER BASED PROJECTS ON RTOS
@@ -28,14 +28,20 @@ COURSE BASED WORKS ->
 
 
 
-3. Mastering Microcontrollers - 2
+#3. Mastering Microcontrollers - 2
    
-   Learnings - TIMERS, CAN, POWER modes, RTC
+   Learnings - TIMERS, CAN, POWER modes, RTC , Bare Metal Programming
+   https://github.com/Krish36518/Mastering-MCU-STM32F4xx---2
 
 
+#4.STM32 AWS IoT Core Bootcamp: MQTT, OTA Updates, ESP32 WIFI
+
+   Learnings - MQTT Commands and usage,FreeRtos integration with MQTT, Connection with AWS, ESP AT firmware
+   https://github.com/Krish36518/Project_Mqtt_Subscribe_Publish_Receive-using-AWS
+   
 
 
-PROJECT BASED WORKS ->
+#PROJECT BASED WORKS ->
 
 1.Gesture controlled hand paiano
 
@@ -60,6 +66,11 @@ https://github.com/Krish36518/Digital-Clock-Using-TTL-ICs
 5.Smart Cable Fault Detector
 
 Key Takeaway - A smart cablefault detector which makes use of TDR technology and an algorith to find accurate distance in faulty wires
+
+6.MQTT Publish , Receive and Subscribe using AWS 
+
+Key Takeaway - A pure IOT project synchronizing data from AWS server and using FREERTOS with it , working perfectly fine and with security.
+https://github.com/Krish36518/Project_Mqtt_Subscribe_Publish_Receive-using-AWS
 
 
    
